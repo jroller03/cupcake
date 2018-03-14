@@ -1,0 +1,28 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.intro{
+  width: 50%;
+  font-style: italic;
+}
+
+p.main{
+  font-style: oblique;
+}
+
+p.important{
+  font-size: 12px;
+  font-style: normal;
+}
+
+img.best{
+  width: 25%;
+  height: 25%;
+}
+
+.link{
+  font-size: 20px;
+  color: #FF00FF;
+}
